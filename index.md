@@ -13,7 +13,7 @@
 </script\>
 <noscript\><img height="1" width="1" style="display:none"
   src="https://www.facebook.com/tr?id=2440991242895330&ev=PageView&noscript=1"
-/></noscript\>
+/\></noscript\>
 <!-- End Facebook Pixel Code -->
 
 ## Welcome to GitHub Pages
